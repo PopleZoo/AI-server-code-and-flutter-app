@@ -4,5 +4,4 @@ AI Voice Assistant local server code and Flutter app. For the AI portion of the 
 
 # Use 7-zip to unpack the .7z files
 
-
-[![Watch the video](https://github.com/PopleZoo/AI-server-code-and-flutter-app/raw/main/thumbnail.png)](https://github.com/PopleZoo/AI-server-code-and-flutter-app/raw/main/Demo.mp4)
+![Uploading Demo.gif…]()
