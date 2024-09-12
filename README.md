@@ -4,3 +4,6 @@
 
 # Use 7-zip to unpackage the .7z files
 
+[!Watch the video]
+(https://raw.githubusercontent.com/PopleZoo/AI-server-code-and-flutter-app/main/Demo.mp4)
+
